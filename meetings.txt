@@ -1,0 +1,22 @@
+Date/Time           Location            Area of Focus
+
+Saturday/3PM        Discord             Discussing implementaton, data structures, makeSelection
+
+Sunday/3PM          Discord             Continue implementaton, work on assignment 1.1
+
+---------------------------------------------------------------------------------------------------
+
+Date/Time           Location            Area of Focus
+
+Saturday/3PM        Discord             Layout gui desinged in class - no need to implement game logic
+
+Sunday/3PM          Discord             Work on adding game logic to gui
+
+---------------------------------------------------------------------------------------------------
+
+Date/Time           Location            Area of Focus
+
+Thursday/6PM        Discord             CLI solve
+
+Saturday/3PM        Discord             GUI solve
+
